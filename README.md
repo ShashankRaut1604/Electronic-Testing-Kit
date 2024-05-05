@@ -17,3 +17,5 @@ Future Developments:
 The current design is based on the YouTube video. You can improve upon this design by adding new functionalities or features based on your research and expertise.
 Consider incorporating a more comprehensive LCD screen to display the test results and component specifications in a clear and easy-to-read format.
 Explore the possibility of adding functionalities to test additional electronic components beyond transistors, resistors, and capacitors.
+
+https://docs.google.com/presentation/d/11DWq3r4YQUs20ski30N9aGwP_Quexx2f/edit?usp=sharing&ouid=107037726633395077521&rtpof=true&sd=true
